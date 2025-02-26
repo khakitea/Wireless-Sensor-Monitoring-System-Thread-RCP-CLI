@@ -11,6 +11,6 @@ Unfinished tasks that were halted due to time constrait:
 
 
 For code content,
-[Communication] Application > User > App > "app_thread.c"
+[Communication] STM32_WPAN > App > "app_thread.c"
 [Sensor ADC] Application > User > STM32_WPAN > "main.c"
 	     Application > User > "MAX6675.c" and "MAX6675.h"
